@@ -1,0 +1,49 @@
+body {
+    background-color: #2e3e4c;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #ffcc00;
+    text-align: center;
+}
+
+h2 {
+    color: #ffcc00;
+    text-align: left;
+}
+p {
+    color: #ffcc00;
+    font-size: 1.2em;
+    text-align: left;
+}
+
+em {
+    color: #ffcc00;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+}
+
+button {
+    background-color: #ffffff;
+    color: #717375;
+    border: none;
+    text-align: center;
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+.foto-derecha {
+    float: right;
+    width: 150px;
+    height: auto;
+    margin: 10px;
+    border-radius: 8px;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
